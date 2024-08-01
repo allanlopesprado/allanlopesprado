@@ -1,11 +1,12 @@
 ## Hi there 👋
-I'm Allan Lopes Prado, a technology enthusiast with a passion for learning and collaboration. Welcome to my GitHub profile!
+I'm Allan Lopes Prado, a seasoned technology professional with a rich history in IT since 2005. My journey is driven by a passion for innovation, relentless learning, and collaborative problem-solving. Dive into my GitHub to see how I'm contributing to the tech world.
 
-- 👀 Interests: Exploring the world of technology, from software development to IT infrastructure.
-- 🌱 Current Focus: Enhancing my skills and knowledge about GitHub and contributing to the community.
-- 💞️ Collaborations: Actively looking to collaborate on open-source projects, especially those related to GLPI and Zabbix.
-- 📫 Contact Me: Feel free to reach out through the social networks listed in my profile.
-- Let's connect and work together to build amazing things!
+- 👀 Interests: Delving deep into IT infrastructure and exploring cutting-edge technologies.
+- 🌱 Current Focus: Enhancing my expertise on GitHub and making meaningful contributions to the tech community.
+- 💞️ Collaborations: Actively seeking opportunities to partner on exciting open-source projects, especially around GLPI and Zabbix.
+- 📫 Contact Me: Let’s connect through the social networks listed in my profile.
+
+Looking forward to collaborating and creating impactful tech solutions together!
 
 <!--
 **allanlopesprado/allanlopesprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
