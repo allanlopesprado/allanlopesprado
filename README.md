@@ -1,13 +1,20 @@
-## Hi there 👋
-I'm Allan Lopes Prado, a seasoned technology professional with a rich history in IT since 2005. My journey is driven by a passion for innovation, relentless learning, and collaborative problem-solving. Dive into my GitHub to see how I'm contributing to the tech world.
+# Allan Lopes Prado 👋
 
-- 👀 Interests: Delving deep into IT infrastructure and exploring cutting-edge technologies.
-- 🌱 Current Focus: Enhancing my expertise on GitHub and making meaningful contributions to the tech community.
-- 💞️ Collaborations: Actively seeking opportunities to partner on exciting open-source projects, especially around GLPI and Zabbix.
-- 📫 Contact Me: Let’s connect through the social networks listed in my profile.
+### Senior IT Infrastructure Lead | Cloud & Cybersecurity Architect
 
-Looking forward to collaborating and creating impactful tech solutions together!
+I am a Senior Technology Leader with extensive experience in **IT Infrastructure**, **Cloud**, and **Cybersecurity**. I specialize in **Systems Governance** and **Solution Architecture**, with a results-driven approach focused on business outcomes.
 
-<!--
-**allanlopesprado/allanlopesprado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technical Skills
+- **Infrastructure & Cloud:** Azure, AWS, Terraform
+- **Cybersecurity:** Firewall Architecture, Penetration Testing, Vulnerability Management
+- **DevOps & Automation:** GitHub, CI/CD, Docker, Kubernetes
+- **Advanced Networking:** High Availability Networks, VLANs, VPN/VDI, Layer 3 Switching, Wireless Backbones
 
+## 📚 Certifications
+- **Microsoft Azure Administrator (AZ-104)**
+- **CompTIA Security+**
+- **AWS Certified SysOps Administrator**
+- **ITIL 4 Foundation**
+
+## 📫 Connect with Me
+- **LinkedIn:** [allanlopesprado](https://www.linkedin.com/in/allanlopesprado)
